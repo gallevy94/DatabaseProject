@@ -1,0 +1,57 @@
+.mainwrapper{
+    max-width: 1200px;
+    padding: 0 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.header-add{
+    font-size: 3rem;
+    margin: 20px 0 20px 50px;
+}
+
+.fields{
+    margin: 20px 0 20px 50px;
+    font-size: 1rem;
+}
+
+label, input {
+    margin: 0 0 0 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.submit{
+    margin-top: "30px";
+    display: flex;
+    flex-direction: row;
+}
+
+.btn-submit {
+    width: 60px;
+    font-size: 1rem;
+    text-align: center;
+    padding: 10px;
+    background: #0250bc;
+    color: #ffffff;
+    border: 1px solid #0250bc;
+    border-radius: 5px;
+}
+
+.submit-cancel {
+    width: 60px;
+    font-size: 1rem;
+    text-align: center;
+    padding: 10px;
+    background: transparent;
+    color: #4e4e4e;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+}
+
+.submit-btn:hover {
+    color: #4e4e4e;
+    border: 1px solid #818181;
+    background: transparent;
+}
