@@ -1,3 +1,4 @@
+# Database Website
 A front-end web application, built with React, rendering a list of clients, enabling users to add new clients and to search for a specific client of their choice!"
 
 ![1](https://github.com/gallevy94/DatabaseProject/assets/68893640/46acc800-3f54-411e-9573-f8243014b956)
